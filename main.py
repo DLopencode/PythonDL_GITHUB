@@ -36,3 +36,6 @@ for pregunta in preguntas: # bucle para iterar por todas las preguntas
 
 
 ## NUEVOS CAMBIOS 2021
+
+
+## AHORA SI QUE SI 

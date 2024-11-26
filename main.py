@@ -28,3 +28,4 @@ for pregunta in preguntas: # bucle para iterar por todas las preguntas
 
 # fin de mi programa
 
+# 13:16

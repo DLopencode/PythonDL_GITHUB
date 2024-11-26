@@ -28,14 +28,3 @@ for pregunta in preguntas: # bucle para iterar por todas las preguntas
 
 # fin de mi programa
 
-# prueba 2
-
-# casa
-
-# probandoooooo en casaaaa
-
-
-## NUEVOS CAMBIOS 2021
-
-
-## AHORA SI QUE SI 
